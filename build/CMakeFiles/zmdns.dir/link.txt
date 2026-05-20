@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzmdns.a CMakeFiles/zmdns.dir/src/zmdns.c.o
+/usr/bin/ranlib libzmdns.a

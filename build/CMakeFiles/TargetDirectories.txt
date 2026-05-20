@@ -1,0 +1,3 @@
+/home/cheese/code/zumbo-mdns/build/CMakeFiles/zmdns.dir
+/home/cheese/code/zumbo-mdns/build/CMakeFiles/edit_cache.dir
+/home/cheese/code/zumbo-mdns/build/CMakeFiles/rebuild_cache.dir

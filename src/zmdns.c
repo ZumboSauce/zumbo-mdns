@@ -65,7 +65,7 @@ resolve_name( const uint8_t *c, const uint8_t *b, uint8_t *n, size_t *n_s )
 {
     size_t t = 0;
     //To mitigate f_n_l returning NULL once the terminator is reached, we update c inside the loop so it runs n-1 times.
-    for( const uint8_t *o = rsl_cmp( (const uint16_t *)c, b ); o != NULL; o = find_next_label( (const uint16_t *)c, b) )
+    for( const uint8_t *o = rsl_cmp( (const uint16_t *)c, b ); o != NULL; o = find_next_label( (const uint16_t *)c, b ) )
     {
         memcpy( n + t, o + 1, *o );
         t += *o;

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/cheese/code/zumbo-mdns/build",
+  "command": "/usr/bin/cc  -I/home/cheese/code/zumbo-mdns/./include  -o CMakeFiles/zmdns.dir/src/zmdns.c.o -c /home/cheese/code/zumbo-mdns/src/zmdns.c",
+  "file": "/home/cheese/code/zumbo-mdns/src/zmdns.c",
+  "output": "CMakeFiles/zmdns.dir/src/zmdns.c.o"
+}
+]
